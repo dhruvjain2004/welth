@@ -3,8 +3,6 @@
 A cutting-edge **AI-powered Finance Management Platform** built using **Next.js, Supabase, Prisma, Inngest, ArcJet, and Shadcn UI**.  
 This project integrates modern authentication, real-time data synchronization, AI-based analytics, and automated financial insights — all powered by the **Gemini API**.
 
-> 🎥 Inspired by: [Full Stack AI Finance Platform Tutorial](https://youtu.be/egS6fnZAdzk)
-
 ---
 
 ## 🚀 Tech Stack
@@ -117,7 +115,7 @@ npx prisma db push
 npm run dev
 ```
 
-The app will be live at **http://localhost:3000**
+The app will be live at **https://welth-gamma-six.vercel.app/**
 
 ---
 
@@ -172,4 +170,4 @@ This project is licensed under the **MIT License**.
 ## 🧑‍🏫 Credits
 
  
-**Built with ❤️ by:** Dhruv Jain ([@yourgithubhandle](https://github.com/dhruvjain2004))
+**Built with ❤️ by:** Dhruv Jain ([@DhruvJain](https://github.com/dhruvjain2004))
