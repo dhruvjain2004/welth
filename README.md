@@ -171,5 +171,5 @@ This project is licensed under the **MIT License**.
 
 ## 🧑‍🏫 Credits
 
-**Tutorial by:** [Code with Antonio](https://www.youtube.com/@codewithantonio)  
-**Built with ❤️ by:** Your Name ([@yourgithubhandle](https://github.com/yourgithubhandle))
+ 
+**Built with ❤️ by:** Dhruv Jain ([@yourgithubhandle](https://github.com/dhruvjain2004))
